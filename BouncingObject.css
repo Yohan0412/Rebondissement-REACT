@@ -1,0 +1,11 @@
+/* BouncingObject.css */
+.bouncing-object {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 50%;
+}
